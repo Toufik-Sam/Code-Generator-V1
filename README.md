@@ -5,7 +5,7 @@ can also Generate Classes for DataAccess Layer and Business Layer based on the 3
 <br />
 Note:<br />If you want to use this tool Make sure to go to The DataAccess Layer and then to clsDataAccessSetings and change the ConnectionString to your ConnectionString<br />
 <br />
-How To Use the tool:<br />
+How To Use this tool:<br />
 1-The Databases Created by you will be loaded to the comboBox DataBase<br />
 2-The Tables of your Selected DataBase will be loaded to the comboBox Table Name<br />
 3-To start Generating code click on Generator and choose what you want for example Gnerator->SQL query->Insert Into<br />
