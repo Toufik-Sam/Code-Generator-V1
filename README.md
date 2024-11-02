@@ -9,5 +9,6 @@ How To Use this tool:<br />
 1-The Databases Created by you will be loaded to the comboBox DataBase<br />
 2-The Tables of your Selected DataBase will be loaded to the comboBox Table Name<br />
 3-To start Generating code click on Generator and choose what you want for example Gnerator->SQL query->Insert Into<br />
-
+<br />
+![image alt](https://github.com/Toufik-Sam/Code-Generator-V1/blob/73ede41a64d816b0797c9b2a8e541e167c08fc67/screenshot.PNG)
 
