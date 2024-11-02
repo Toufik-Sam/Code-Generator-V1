@@ -6,7 +6,7 @@ namespace DataAccessLayer
         public static string ConnectionString = "Data Source=.; Integrated Security=True;";
         public static string GetDataBaseConnectionStringByName(string DataBaseName)
         {
-            return "Server=.;Database=" + DataBaseName + ";User Id=sa;Password=sa123456;";
+            return "Server=.;Database=" + DataBaseName + ";User Id=YourID;Password=YourPassword;";
         }
 
     }
